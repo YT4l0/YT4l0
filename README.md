@@ -13,7 +13,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YT4L0&bg_color=008b8b&color=fcfcfc&line=fcfcfc&point=52f3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YT4l0&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -45,7 +45,7 @@
 <br>
 </div>
 
- ![Snake animation](https://github.com/YT4l0/YT4l0/blob/output/github-contribution-grid-snake.svg)
+
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
 
