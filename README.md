@@ -38,10 +38,10 @@
   <img height="165" src="https://streak-stats.demolab.com?user=YT4l0&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação da cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YT4l0/YT4l0/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YT4l0/YT4l0/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação da cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/YT4l0/YT4l0/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
+</p> -->
