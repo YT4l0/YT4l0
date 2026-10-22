@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
   </a> 
   <a href="mailto:ytalodias206@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="blasiusgeovana61@gmail.com" />
+    <img src="https://img.shields.io/badge/E--mail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="ytalodias206@gmail.com" />
   </a> 
  </a> 
   <img src="https://komarev.com/ghpvc/?username=YT4l0&color=8A2BE2&style=for-the-badge&label=Visitas" alt="Visitas no perfil" /> 
